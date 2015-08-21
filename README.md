@@ -9,9 +9,7 @@
 3. [Virtualenvwrapper](https://virtualenvwrapper.readthedocs.org/en/latest/)
 
 ### Setup the environment
-1. Clone the repo and `cd` into it
-
-> All commands are to be run from the project root
+1. Clone the repo and `cd` into it. *Run all commands from the project root*
 
 2. Create the virtual environment
 ```Bash
