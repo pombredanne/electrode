@@ -18,7 +18,7 @@ Create the virtual environment:
 $ mkvirtualenv electrode
 ```
 
-Install Python dependencies in our new environment
+Install Python dependencies
 ```Bash
 $ pip install -r requirements.txt
 ```
