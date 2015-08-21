@@ -1,7 +1,7 @@
 # Electrode
 
 ![Image of Electrode]
-(http://i690.photobucket.com/albums/vv261/Baretooken/101.gif)
+(https://pokemontsm.files.wordpress.com/2014/07/electrode.png)
 
 ## Setup
 
@@ -9,8 +9,14 @@ Prerequisites:
 * [Homebrew](http://brew.sh/)
 * [Python with pip](http://stackoverflow.com/a/17271838)
 * [Virtualenvwrapper](https://virtualenvwrapper.readthedocs.org/en/latest/)
-* Node with npm: `brew install node`
-* Grunt command line interface globally `sudo npm install -g grunt-cli`
+* Node with npm:
+```
+brew install node
+```
+* Grunt command line interface globally
+```
+sudo npm install -g grunt-cli
+```
 
 ### Local Environment
 Clone the repo and `cd` into it.
@@ -52,7 +58,7 @@ To see your Electron changes (JS/HTML/CSS), you can just refresh the window:
 <kbd>command</kbd> + <kbd>r</kbd>
 
 
-## Working happily togethers :)
+## Working happily together :)
 
 Adding features:
 
