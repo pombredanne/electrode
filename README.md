@@ -1,5 +1,8 @@
 # Electrode
 
+![Image of Electrode]
+(http://i690.photobucket.com/albums/vv261/Baretooken/101.gif)
+
 ## Setup
 
 Prerequisites:
@@ -57,7 +60,7 @@ Adding features:
 
 2. Do your work, commit often, write tests first (if possible).
 
-3. When your tests pass and feature is ready, push up your branch.  
+3. When your tests pass and feature is ready, push up your branch.
 
 4. Make a pull request from your branch into `master`
 
