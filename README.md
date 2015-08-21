@@ -15,7 +15,6 @@
 ```Bash
 mkvirtualenv electrode
 ```
-
 3. Install Python dependencies in our new environment
 ```Bash
 pip install -r requirements.txt
