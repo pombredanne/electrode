@@ -10,7 +10,8 @@
 
 ### Setup the environment
 1. Clone the repo and `cd` into it
-*All commands are to be run from the project root*
+
+> All commands are to be run from the project root
 
 2. Create the virtual environment
 ```Bash
