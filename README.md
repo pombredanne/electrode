@@ -7,7 +7,7 @@ Prerequisites:
 * [Python with pip](http://stackoverflow.com/a/17271838)
 * [Virtualenvwrapper](https://virtualenvwrapper.readthedocs.org/en/latest/)
 
-### Setup the environment
+### Python environment
 
 Clone the repo and `cd` into it.
 
@@ -26,6 +26,7 @@ $ pip install -r requirements.txt
 ## Git practices
 
 Adding features:
+
 1. Create a branch off `master`
 
 2. Do your work, commit often, write tests first (if possible).
@@ -37,6 +38,7 @@ Adding features:
 5. Let **someone else** code review and merge your PR.
 
 Bug fixes:
+
 1. Report an [issue](https://guides.github.com/features/issues/).
 
 2. In the issue, document how to recreate the bug.
