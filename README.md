@@ -12,10 +12,14 @@
 *All commands are to be run from the project root*
 
 * Create the virtual environment
-`mkvirtualenv electrode`
+```Bash
+mkvirtualenv electrode
+```
 
 * Install Python dependencies in our new env
-`pip install -r requirements.txt`
+```Bash
+pip install -r requirements.txt
+```
 
 ## Git practices
 
