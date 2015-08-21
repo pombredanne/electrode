@@ -6,6 +6,7 @@ Prerequisites:
 * [Homebrew](http://brew.sh/)
 * [Python with pip](http://stackoverflow.com/a/17271838)
 * [Virtualenvwrapper](https://virtualenvwrapper.readthedocs.org/en/latest/)
+* Make sure you don't have anything running on port 5000
 
 ### Python environment
 
