@@ -1,22 +1,23 @@
 # Electrode
 ## Setup
-### 1. Make sure you have the following installed
+### Make sure you have the following installed
 
-[Homebrew](http://brew.sh/)
-[Python with pip](http://stackoverflow.com/a/17271838)
-[Virtualenvwrapper](https://virtualenvwrapper.readthedocs.org/en/latest/)
+1. [Homebrew](http://brew.sh/)
 
-### 2. Setup the environment
-Clone the repo and `cd` into it
+2. [Python with pip](http://stackoverflow.com/a/17271838)
 
+3. [Virtualenvwrapper](https://virtualenvwrapper.readthedocs.org/en/latest/)
+
+### Setup the environment
+1. Clone the repo and `cd` into it
 *All commands are to be run from the project root*
 
-Create the virtual environment
+2. Create the virtual environment
 ```Bash
 mkvirtualenv electrode
 ```
 
-Install Python dependencies in our new env
+3. Install Python dependencies in our new env
 ```Bash
 pip install -r requirements.txt
 ```
