@@ -13,5 +13,5 @@ app.on('ready', function () {
     });
 
     // Load the index page
-    mainWindow.loadUrl('http://localhost:4040');
+    mainWindow.loadUrl('http://localhost:4040/Andy');
 });
